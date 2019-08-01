@@ -2,11 +2,21 @@
 
 This repository is an attempt to document all collective actions from workers in the tech industry.
 
-For the purposes of this project, the tech industry is defined to include any companies whose core business is information technology. We are excluding adjacent industries such as gaming and digital media.
-
 The goal of _Collective Action in Tech_ is to give us, tech workers, insights on trends in worker power in the tech industry. This archive is meant to provide us with the data to  find the connections between different struggless and to let us reflect collectively on moments in tech labor.
 
 **This repository is meant to be a live document. We need your help to ensure its accuracy and completeness! See the [Contribution Guidelines](CONTRIBUTING.md) for more information about how to contribute.**
+
+#### Definition
+
+Events must be "collective" and contain "evidence of action" by currently or recently employed "tech workers". All events must be publicly reported on in a publication.
+
+(1) "Collective". Must involve a minimum of two employees who recognize themselves as a group united by a shared cause and/or issue. The cause and/or issue should be relevant to a broader public, defined as a community which is not directly related to the company through employment or financial ties. The broader public does not include company shareholders, businesses with shared interests, or owners of company property, which include consumers of company products. An action that would typically not be deemed relevant to a broader public on its own merit may qualify if the group presents an argument that it is occurring in response to a cause and/or issue that is relevant to a broader public (e.g. an employee who is believed to have been fired as retaliation for a recent protest).
+
+(2) "Evidence of action". Must involve an attempt to present the cause and/or issue outside of the immediate group. Actions may be either internal (available or visible only to other employees) or external (available or visible to the broader public).
+
+(3) "Tech workers". Defined as current or recently employed (within the last year) workers in the tech industry. Tech industry includes but is not limited to information technology, Internet, hardware, software. Does not include adjacent industries, e.g. digital media (e.g. Vox, Buzzfeed) or the video game industry (unless the company's primary business is in any of the above categories, e.g. Niantic). Does include online retailers (e.g. Amazon, Wayfair) and social media companies.
+
+**If you are unsure about whether an action fits the definition, we encourage you to contribute anyways! We are always interested in hearing about new types of collective actions. The above definition may evolve over time.**
 
 #### Summary
 <div id="summary">
